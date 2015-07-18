@@ -10,5 +10,10 @@
   "hubot-rules",
   "hubot-shipit",
   "hubot-factoids",
-  "hubot-auth"
+  "hubot-auth",
+  "hubot-sentimental",
+  "hubot-thank-you",
+  "hubot-plusplus",
+  "hubots-darts",
+  "hubot-seen"
 ]
