@@ -27,6 +27,6 @@
     "hubot-seen": "^0.2.3"
   },
   "engines": {
-    "node": "0.10.x"
+    "node": "6.x"
   }
 }
